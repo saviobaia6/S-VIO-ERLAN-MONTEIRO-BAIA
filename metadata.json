@@ -1,0 +1,6 @@
+{
+  "name": "Desafio 365 Depósitos - Dashboard Looker Studio",
+  "description": "Painel Executivo e Guia de Engenharia de Dados para o Desafio dos 365 Depósitos (Meta R$ 30.000,00) no Looker Studio com integração Google Planilhas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
